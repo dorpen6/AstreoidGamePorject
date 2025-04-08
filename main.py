@@ -11,3 +11,5 @@ ASTEROID50 = pygame.image.load('./asteroid50.png')
 ASTEROID100 = pygame.image.load('./asteroid100.png')
 ASTEROID150 = pygame.image.load('./asteroid150.png')
 
+# TITLE OF THE GAME - WINDOW
+pygame.display.set_caption('Alien Invasion')
